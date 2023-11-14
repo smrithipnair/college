@@ -1,6 +1,6 @@
 const mongoose=require("mongoose");
 const Schema=mongoose.Schema;
-const CollegeSchema=new Schema({
+const  CollegeSchema=new Schema({
 
     Name:{
     type:String,

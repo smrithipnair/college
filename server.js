@@ -23,5 +23,5 @@ const data2={
 }
 console.log(signin(data2))
 mongoose.connect(`mongodb+srv://smrithipnair:smrithi1307@smrithiscipy.niwl7ox.mongodb.net/?retryWrites=true&w=majority`)
-.then(()=>console.log("mongoose connected"))
+.then(()=>console.log("mongoose  connected"))
 .catch((err)=>console.log("err"))
